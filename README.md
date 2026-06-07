@@ -3,7 +3,7 @@
 
 Формат файла:\
 {\
-id (long long int)\
+id (long long int) - номер задачи\
 name (string) - название задачи\
 completed (bool) - статус выполнения задачи (0 - не выполнен, 1 - выполнен)\
 description (string) - описание задачи\
